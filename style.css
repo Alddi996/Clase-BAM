@@ -1,0 +1,18 @@
+body h1 {
+
+    background-color: rgb(166, 123, 206);
+}
+
+.textoAlineado {
+    text-align: center;
+}
+
+#fondoRosa {
+    background-color: pink;
+}
+
+.bordePunteado {
+    border: 5px;
+    border-style: dotted;
+    border-color: rgb(239, 81, 210);
+}
